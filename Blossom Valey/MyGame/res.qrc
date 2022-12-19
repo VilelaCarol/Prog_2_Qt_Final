@@ -1,0 +1,21 @@
+<RCC>
+    <qresource prefix="/">
+        <file>img/gameOver.png</file>
+        <file>img/Win.png</file>
+        <file>Imagens/corvo_01.png</file>
+        <file>Imagens/corvo_02.png</file>
+        <file>Imagens/corvo_11.png</file>
+        <file>Imagens/corvo_12.png</file>
+        <file>Imagens/corvo_21.png</file>
+        <file>Imagens/corvo_22.png</file>
+        <file>Imagens/foguinho.png</file>
+        <file>Imagens/Fundo_casa.png</file>
+        <file>Imagens/Fundo_floresta.png</file>
+        <file>Imagens/Pantalho.png</file>
+        <file>img/Alpiste.png</file>
+    </qresource>
+    <qresource prefix="/music">
+        <file>battleThemeA.mp3</file>
+        <file>Battlesong.mp3</file>
+    </qresource>
+</RCC>
